@@ -27,3 +27,5 @@ while running:
 
 # Done! Time to quit.
 pygame.quit()
+
+# We didnt plot how the game would work but ok
