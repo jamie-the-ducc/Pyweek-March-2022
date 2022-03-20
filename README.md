@@ -1,9 +1,11 @@
-# Pyweek-March-2022
-in association w/ Katt
+# PyWeek: March 2022
+## Theme: My Evil Twin
+#### Ends: Saturday, 26 March, 2022
+# 
 
+### Project by [jamie-the-ducc](https://github.com/jamie-the-ducc) and [FFlyyy](https://github.com/FFlyyy)
 
-We still didnt start but ok lol
+# 
+[//]: # (Put other messages below this point: ) 
 
-
-
-poop
+We still didn't start but ok lol
